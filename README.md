@@ -1,4 +1,8 @@
-### Hi, I'm TanqDev88 👋
+<div align="center">
+<h1 align="center">Hi, I'm  <a href="https://aristi.dev">TanqDev88</a> 👋</h1>
+</div>
+
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 I am a developer specialized in .NET and Angular technologies, looking to contribute in all phases of the software development cycle. I am excited to contribute my experience and skills to the creation of innovative and high-quality technological solutions.
 
